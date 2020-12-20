@@ -1,5 +1,5 @@
 let text4 = document.createElement('h2');
-text4.innerText='Text4';
+text4.innerText = 'Text4';
 
 document.body.append(text4);
 
