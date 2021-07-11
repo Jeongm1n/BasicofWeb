@@ -1,6 +1,10 @@
 # BasicofWeb
 
-Basic of Web
+HTML5
+
+CSS3
+
+JavaScript
  
 
 
